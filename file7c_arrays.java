@@ -1,7 +1,7 @@
 package dsa_course;
 import java.util.Scanner;
-import java.lang.Math;
-public class java7c_arrays {
+
+public class file7c_arrays {
     public static int largest(int[] arr){
         int largest1 = Integer.MIN_VALUE;
         for (int i=0; i<arr.length; i++){
